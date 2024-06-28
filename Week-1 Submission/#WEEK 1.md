@@ -1,0 +1,4 @@
+#WEEK 1
+Firstly, I read about what exactly machine learning is and its basics including how to preprocess data(normalization, cleaning data, one hot encoding etc.) , balancing of data,differences between classification and clustering, how different machine learning algorithms work(logistic regression, lightgbm, random forest, xgboost, svm etc.).
+I then tried finding dataset. Then I preproccessed it and balanced it. Then I implemented different algorithms and calculated the accuracy and precision.I chose the one with the best performance which came out to be LightGBM. Then I studied how does it  interpret data , learnt to plot confusion metrics, studied about SHAP and implemented these.
+Then  I read about API and tried creating api using FastAPI for real time application. My code is working but I am not friendly with APIs and testing it on localhost has been a roadblock as of now.I will work on this and fix the issue as soon as possible.
